@@ -39,9 +39,9 @@ export function Expansion() {
             <span className="text-gradient-gold">Inevitable.</span>
           </h2>
           <p className="mt-6 max-w-lg font-sans text-base leading-relaxed text-mist sm:text-lg">
-            MO20 is building beyond hype — a global community assembled with
-            intent, moving with the discipline of an empire rather than the
-            noise of a trend. This is long-term vision, executed like a
+            MO20 is building beyond hype. It’s a global community assembled
+            with intent, moving with the discipline of an empire rather than
+            the noise of a trend. This is long-term vision, executed like a
             campaign, not a sprint.
           </p>
         </RevealSection>

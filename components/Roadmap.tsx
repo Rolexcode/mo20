@@ -12,6 +12,23 @@ export function Roadmap() {
           <h2 className="mt-6 font-display text-4xl text-ivory sm:text-5xl">
             The <span className="text-gradient-gold">Roadmap.</span>
           </h2>
+          <a
+            href="/mo20-imperial-roadmap.pdf"
+            download
+            className="group mt-6 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-wide2 text-gold/80 transition-colors hover:text-gold"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.5"
+              className="h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-y-0.5"
+              aria-hidden="true"
+            >
+              <path d="M12 4v11m0 0-4-4m4 4 4-4M5 19h14" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+            Download Roadmap (PDF)
+          </a>
         </RevealSection>
 
         <div className="relative mt-20">

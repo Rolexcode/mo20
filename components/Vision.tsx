@@ -14,11 +14,11 @@ export function Vision() {
           <p className="mt-6 max-w-lg font-sans text-base leading-relaxed text-mist sm:text-lg">
             Empires are not built on speculation. They are built on planning,
             execution, and intelligent growth. Every phase of MO20 Imperial
-            is calculated — not chased.
+            is calculated, not chased.
           </p>
           <p className="mt-5 max-w-lg font-sans text-base leading-relaxed text-mist sm:text-lg">
             While the market moves on noise, we move on structure. Long-term
-            thinking is not a slogan here — it is the mechanism behind every
+            thinking isn’t a slogan here. It’s the mechanism behind every
             decision we make.
           </p>
 

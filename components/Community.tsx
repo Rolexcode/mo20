@@ -28,8 +28,8 @@ export function Community() {
           </h2>
           <p className="mx-auto mt-6 max-w-lg font-sans text-base leading-relaxed text-mist sm:text-lg">
             The throne is waiting. Join a community built on discipline,
-            prestige, and long-term dominance — not hype that fades by
-            morning.
+            prestige and long-term dominance, not the kind of hype that fades
+            by morning.
           </p>
 
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">

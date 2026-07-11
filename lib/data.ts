@@ -13,7 +13,7 @@ export const VALUES = [
     numeral: "I",
     glyph: "crown",
     title: "Royal Leadership",
-    copy: "Vision-driven development, steered with the discipline of those built to lead — not to follow the crowd.",
+    copy: "Vision-driven development, steered with the discipline of those built to lead, not follow the crowd.",
   },
   {
     numeral: "II",
@@ -25,7 +25,7 @@ export const VALUES = [
     numeral: "III",
     glyph: "globe",
     title: "Expansion",
-    copy: "An international community, built deliberately — territory earned through consistency, not hype.",
+    copy: "An international community, built deliberately. Territory earned through consistency, not hype.",
   },
   {
     numeral: "IV",

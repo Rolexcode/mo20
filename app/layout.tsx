@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "MO20 Imperial | Rule Beyond Limits",
     description:
-      "The throne is waiting. MO20 Imperial — power, prestige and long-term dominance on Solana.",
+      "The throne is waiting. MO20 Imperial stands for power, prestige and long-term dominance on Solana.",
     images: ["/images/lion-medallion.jpg"],
     creator: "@mo20_sol",
   },

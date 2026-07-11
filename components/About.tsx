@@ -29,16 +29,15 @@ export function About() {
             <span className="text-gradient-gold">Another Token.</span>
           </h2>
           <p className="mt-6 max-w-lg font-sans text-base leading-relaxed text-mist sm:text-lg">
-            MO20 Imperial is not just a token — it is a symbol of absolute
-            power, nobility, and dominance on the Solana blockchain. Crafted
+            MO20 Imperial is not just a token. It’s a symbol of absolute
+            power, nobility and dominance on the Solana blockchain. Crafted
             for those who seek the peak of luxury and the strength of an
             empire.
           </p>
           <p className="mt-5 max-w-lg font-sans text-base leading-relaxed text-mist sm:text-lg">
             Every decision is made with discipline. Every phase is built
-            toward prestige, not noise. We are assembling an ecosystem —
-            deliberately, patiently — for those willing to claim their place
-            in it.
+            toward prestige, not noise. We’re assembling an ecosystem slowly
+            and deliberately, for those willing to claim their place in it.
           </p>
 
           <div className="mt-10 grid grid-cols-2 gap-6 border-t border-gold/10 pt-8">
